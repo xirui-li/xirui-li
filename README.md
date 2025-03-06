@@ -10,10 +10,3 @@ My primary focus is on multimodal reasoning, and I am eager to bring my skills a
 * 💬 Ask me about multimodal reasoning.
 * 📝 My profiles are available on [xirui-li.github](https://xirui-li.github.io/)
 * 📫 Contact me for anything at [email](xiruili@ucla.edu) or [LinkedIn](https://www.linkedin.com/in/xirui-li7).
-
-<br>
-
-#### Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=xirui-li&theme=light"/>
-
