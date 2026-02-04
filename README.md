@@ -1,6 +1,6 @@
 ### Introduction
 
-Hello 👋, I'm Xirui Li. I’m currently a graduate student at UCLA. I’m interested in AIGC research and its application.  
+Hello 👋, I'm Xirui Li. I’m currently a first-year PhD student at UMD. I’m interested in AIGC research and its application.  
 
 My primary focus is on multimodal reasoning, and I am eager to bring my skills and experience to a new challenge as a reseacher.
 
