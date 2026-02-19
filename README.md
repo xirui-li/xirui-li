@@ -6,7 +6,7 @@ My primary focus is on multimodal reasoning, and I am eager to bring my skills a
 
 #### Look at this
 
-* 👨‍💻 I'm currently working on multimodal r1.
-* 💬 Ask me about multimodal reasoning.
+* 👨‍💻 I'm currently working on multimodality.
+* 💬 Ask me about multimodality.
 * 📝 My profiles are available on [xirui-li.github](https://xirui-li.github.io/)
-* 📫 Contact me for anything at [email](xiruili@ucla.edu) or [LinkedIn](https://www.linkedin.com/in/xirui-li7).
+* 📫 Contact me for anything at [email](xiruili@umd.edu) or [LinkedIn](https://www.linkedin.com/in/xirui-li7).
